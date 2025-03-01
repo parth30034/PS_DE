@@ -8,4 +8,4 @@ day=sys.argv[1]
 
 #trial run
 
-print('basic setup finished for day =f{day}')
+print(f'basic setup finished for day =f{day}')
